@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background-color: rgb(19, 147, 103);
+    color: blueviolet;
+}
+
+h2 {
+    background-color: rgb(36, 190, 190);
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    color: rgb(29, 98, 228);
+}
+
+.Home {
+    color: rgb(255, 170, 0);
+}
+
+.heading {
+    color: darkslateblue;
+}
+
+.Column {
+    color: rgb(145, 145, 10);
+}
+
+.Paragraph {
+    color: darkslateblue;
+}
+
+.columns {
+    color: rgb(145, 145, 10);
+}
